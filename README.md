@@ -1,2 +1,2 @@
 <ManuelMele>
-<h1>Ux Designer & Front End Dev</h1>
+<h1>Ux Designer & Front End Dev Student</h1>
